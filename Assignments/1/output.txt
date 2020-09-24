@@ -1,0 +1,24 @@
+Transaction #1
+	 Amount: $269.99
+	 Date: 01/01/2020
+	 Category: Food
+	 Description: Champagne
+
+Transaction #2
+	 Amount: $4780
+	 Date: 01/01/2020
+	 Category: Food
+	 Description: Caviar
+
+Transaction #3
+	 Amount: $12562
+	 Date: 01/03/2020
+	 Category: Housing
+	 Description: Vacation_home
+
+Transaction #4
+	 Amount: $400
+	 Date: 01/09/2020
+	 Category: Personal_Care
+	 Description: Therapy
+
